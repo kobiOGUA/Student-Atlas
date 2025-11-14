@@ -1,0 +1,5 @@
+{
+  "name": "Student Atlas: Course Tracker",
+  "description": "An intelligent web application to track university course progress. Users can input their courses and continuous assessment marks. The app calculates required exam scores for target grades and leverages the Gemini API to provide personalized analysis, highlighting courses that need more attention and offering strategic advice.",
+  "requestFramePermissions": []
+}
